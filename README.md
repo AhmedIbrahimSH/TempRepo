@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [developing my problems solving skills by applying the data structures and algorithms that I learned](https://github.com/AhmedIbrahimSH/Problem-Solving-Codeforces-leetcode)
 
-- 🌱 I’m currently learning **Machine Learning , Linux**
+- :smile: I’m currently learning **Machine Learning , Linux**
 
-- 👯 I’m looking to collaborate on **contribution to open Source Projects**
+- :computer: I’m looking to collaborate on **contribution to open Source Projects**
 
 - 💬 Ask me about **Data Structures , Algorithms , OOP**
 
