@@ -20,8 +20,16 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-ibrahim-sharaf-eldin-a43778222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-ibrahim-sharaf-eldin-a43778222" height="30" width="40" /></a>
 <a href="https://twitter.com/AhmedMo98726888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ahmedmo98726888" height="30" width="40" /></a>
+
+</p>
+
+## <picture></picture> <h3>My Competitive Programming Profiles:</h3>
+
+<p align="left">
 <a href="https://leetcode.com/Ahmed_SH/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmed_sh/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/AhmedIbrahim_SH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ahmedibrahim_sh" height="40" width="40" /></a>
+	
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
