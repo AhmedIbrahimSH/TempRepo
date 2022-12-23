@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedibrahimsh&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedibrahimsh" /> </p>
 
-- 🔭 I’m currently working on [developing my problems solving skills by applying the data structures and algorithms that I learned](https://github.com/AhmedIbrahimSH/Problem-Solving-Codeforces-leetcode)
+-🔭 I’m currently working on [developing my problems solving skills by applying the data structures and algorithms that I learned](https://github.com/AhmedIbrahimSH/Problem-Solving-Codeforces-leetcode)
 
-- :book: I’m currently learning **Machine Learning , Linux OS**
+-:book: I’m currently learning **Machine Learning , Linux OS**
 
-- :computer: I’m looking to collaborate on **contribution to open Source Projects**
+-:computer: I’m looking to collaborate on **contribution to open Source Projects**
 
-- 💬 Ask me about **Data Structures , Algorithms , OOP**
+-💬 Ask me about **Data Structures , Algorithms , OOP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
