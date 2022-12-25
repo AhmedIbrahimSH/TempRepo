@@ -5,8 +5,6 @@
 </p>
 <img align="right" alt="Coding" width="400" height = "300" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-
-
 -🔭 I’m currently working on [developing my problems solving skills](https://github.com/AhmedIbrahimSH/Problem-Solving-Codeforces-leetcode)
 
 -:book: I’m currently learning **Machine Learning , Linux OS**
