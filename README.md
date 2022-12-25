@@ -9,7 +9,7 @@
 
 -:book: I’m currently learning **Machine Learning , Linux OS**
 
--:computer: I’m looking to collaborate on **contribution to open Source Projects**
+-:computer: I’m looking to **contribute to open Source Projects**
 
 -💬 Ask me about **Data Structures , Algorithms , OOP**
 
