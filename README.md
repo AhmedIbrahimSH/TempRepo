@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Ibrahim Sharaf Eldin</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=30&pause=1000&color=2F70EB&background=A62CA000&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+at+Cairo+,+Egypt;Competitive+Programmer;Google+Developers+Students+Club+member;Trying+to+improve+by+learning+everyday" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=30&pause=1000&color=2F70EB&background=A62CA000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+from+Cairo+,+Egypt;Competitive+Programmer;Google+Developers+Students+Club+member;Trying+to+improve+by+learning+everyday" alt="Typing SVG" /></a>
 </p>
 <img align="right" alt="Coding" width="400" height = "300" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
