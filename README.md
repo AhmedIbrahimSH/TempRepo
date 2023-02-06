@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Ahmed Ibrahim Sharaf Eldin</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=30&pause=1000&color=2F70EB&background=A62CA000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+from+Cairo+,+Egypt;Competitive+Programmer;Google+Developers+Students+Club+member;Trying+to+improve+by+learning+everyday" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=30&pause=1000&color=2F70EB&background=A62CA000&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student+from+Cairo+,+Egypt;Project+Manager+member+at+Google+Developers+Students+Club;Trying+to+improve+by+learning+everyday" alt="Typing SVG" />
 </p>
 <img align="right" alt="Coding" width="400" height = "300" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
@@ -13,7 +13,7 @@
 
 -💬 Ask me about **Data Structures , Algorithms , OOP**
 
--📄 Know about my experiences [My_CV](https://drive.google.com/file/d/1JUIMIaepzfOybIuekk-7CGtcTP4Y77oS/view?usp=share_link)
+<!-- -📄 Know about my experiences [My_CV]() -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +24,7 @@
 
 </p>
 
-## <picture></picture> <h3>My Competitive Programming Profiles:</h3>
+## <picture></picture> <h3>My Probelm Solving Profiles:</h3>
 
 <p align="left">
 <a href="https://leetcode.com/Ahmed_SH/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmed_sh/" height="30" width="40" /></a>
