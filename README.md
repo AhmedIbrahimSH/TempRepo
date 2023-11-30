@@ -1,10 +1,16 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Ahmed Ibrahim Sharaf Eldin</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=30&pause=1000&color=2F70EB&background=A62CA000&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student+from+Cairo+,+Egypt;Open+Source+Contributer;Project+Manager+member+at+Google+Developers+Students+Club;Trying+to+improve+by+learning+everyday" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=610&size=30&pause=1000&color=2F70EB&background=A62CA000&center=true&vCenter=true&width=820&lines=Computer+Engineering+Student+from+Cairo+,+Egypt;Member+at+Google+Developers+Students+Club;Trying+to+improve+by+learning+everyday" alt="Typing SVG" />
 </p>
 <img align="right" alt="Coding" width="400" height = "300" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
+
+-:computer: Software Development is my passion
+
+
+
+<!--
 -🔭 I’m currently working on developing my problems solving skills
 
 -:book: I’m currently learning **Machine Learning , Linux OS**
@@ -13,6 +19,7 @@
 
 -💬 Ask me about **Data Structures , Algorithms , OOP**
 
+-->
 <!-- -📄 Know about my experiences [My_CV]() -->
 
 
