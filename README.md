@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" height = "300" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 
--:computer: Software Development is my passion
+:computer: Software Development is my passion
 
 
 <h3 align="left">Languages and Tools:</h3>
